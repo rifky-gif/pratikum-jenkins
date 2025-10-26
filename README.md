@@ -1,1 +1,1 @@
-# pratikum-jenkins
+# pratikum mobile-app
